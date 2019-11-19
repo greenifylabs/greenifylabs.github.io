@@ -1,1 +1,3 @@
-# greenifylabs.github.io
+---
+permalink: /index.html
+---
